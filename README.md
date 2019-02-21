@@ -1,4 +1,4 @@
-# Logistic Budget Manager </br>-Unilever Datathon
+# Logistics Budget Management tool </br>-Unilever Datathon
 
 Made a web based tool for managing the ligistics budget. At a datathon (data based hackathon) at Unilever, we were asked to come up with a solution that:
 * Automates the process of consolidation of the input datasets and updation of actuals
